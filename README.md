@@ -30,7 +30,7 @@ Join me on this journey of knowledge expansion and skill enhancement as I naviga
 
 GitHub: [GitHub Repository](https://github.com/mihirjadhav04/TheFoodHub) 📝
 
-Live Demo: [Demo URL](link-to-live-demo) 🚀
+Live Demo: [Demo URL](https://the-food-hub-frontend.vercel.app/) 🚀
 
 ---
 
